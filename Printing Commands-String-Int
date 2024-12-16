@@ -1,0 +1,159 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.Sockets;
+using System.Text;
+using System.Threading.Tasks;
+using Microsoft.Win32;
+
+namespace _01_MainSubjects
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            #region Yazdırma Komutları
+
+            //Console.WriteLine("Merhaba Dünya");
+            //Console.Write("Merhaba");
+
+
+
+            //Console.WriteLine("***** Yemek Kategorileri *****");
+            //Console.WriteLine();
+            //Console.WriteLine("1-Çorbalar");
+            //Console.WriteLine("2-Ana Yemekler");
+            //Console.WriteLine("3-Soğuk Başlangıçlar");
+            //Console.WriteLine("4-Salatalar");
+            //Console.WriteLine("5-Tatlılar");
+            //Console.WriteLine("6-İçecekler");
+            //Console.WriteLine();
+            //Console.WriteLine("***** Yemek Kategorileri *****");
+
+            #endregion
+
+
+            #region String Değişkenler
+
+            //string name;
+            //name = "Deniz";
+            //Console.WriteLine(name);
+
+            //string customerName;
+            //string customerSurname;
+            //string customerPhone;
+            //string customerEmail, district, city;
+
+            //customerName = "Name";
+            //customerSurname ="Surname";
+            //customerPhone = "+90 500 400 30 20";
+            //customerEmail = "deni13zha23232z@outlook.com" ; district = "Kadıköy"; city = "İstanbul";
+
+            //Console.WriteLine("***** Rezervasyon Kartı *****");
+            //Console.WriteLine();
+            //Console.WriteLine("--------------------------------------------------------");
+            //Console.WriteLine("Müşteri: " + customerName + " " + customerSurname);
+            //Console.WriteLine("İletişim Bilgileri: " + customerPhone);
+            //Console.WriteLine("E-Mail Adresi: " + customerEmail);
+            //Console.WriteLine("Adres: " + district + "/" + city);
+            //Console.WriteLine("--------------------------------------------------------");
+
+            //customerName = "Ayşe";
+            //customerSurname = "Yıldaız";
+            //customerPhone = "+90 400 300 23 12";
+            //customerEmail = "ayseyil32diz@gmail.com"; district = "Sapanca"; city = "Sakarya";
+
+            //Console.WriteLine();
+            //Console.WriteLine("--------------------------------------------------------");
+            //Console.WriteLine("Müşteri: " + customerName + " " + customerSurname);
+            //Console.WriteLine("İletişim Bilgileri: " + customerPhone);
+            //Console.WriteLine("E-Mail Adresi: " + customerEmail);
+            //Console.WriteLine("Adres: " + district + "/" + city);
+            //Console.WriteLine("--------------------------------------------------------");
+
+            #endregion
+
+
+            #region Int Değişkenler
+
+            //int 
+            //int number = 24
+            //Console.WriteLine(number)
+
+
+            //int hamburgerPrice = 300;
+            //int cokePrice = 30;
+            //int friesPrice = 50;
+            //int waterPrice = 10;
+            //int pizzaPrice = 250;
+            //int lemonadePrice = 75;
+
+            //Console.WriteLine("***** Restoran Menü Fiyatları *****");
+            //Console.WriteLine();
+            //Console.WriteLine("----Hamburger " + hamburgerPrice + " TL");
+            //Console.WriteLine("----Pizza " + pizzaPrice + " TL");
+            //Console.WriteLine("----Limonata " + lemonadePrice + " TL");
+            //Console.WriteLine("----Fries " + friesPrice + " TL");
+            //Console.WriteLine("----Kola " + cokePrice + " TL");
+            //Console.WriteLine("----Su " + waterPrice + " TL");
+            //Console.WriteLine();
+            //Console.WriteLine("***** Restoran Menü Fiyatları *****");
+            //Console.WriteLine();
+            //Console.WriteLine("--------------------------------------------------------------");
+
+            //int hamburgerCount = 3;
+            //int cokeCount = 3;
+            //int friesCount = 1;
+            //int waterCount = 3;
+            //int pizzaCount = 0;
+            //int lemonadeCount = 0;
+
+            //int totalhamburgerPrice = hamburgerPrice * hamburgerCount;
+            //int totalcokePrice = cokePrice * cokeCount;
+            //int totalfriesPrice= friesPrice * friesCount;
+            //int totalwaterPrice = waterPrice * waterCount;
+            //int totalpizzaPrice = pizzaPrice * pizzaCount;
+            //int totallemonadePrice = lemonadePrice * lemonadeCount;
+
+            //Console.WriteLine("Hamburger Ücreti: " + totalhamburgerPrice + " TL");
+            //Console.WriteLine("Kola Ücreti: " + totalcokePrice + " TL");
+            //Console.WriteLine("Kızartma Ücreti: "  + totalfriesPrice + " TL");
+            //Console.WriteLine("Su Ücreti: " +  + totalwaterPrice + " TL");
+            //Console.WriteLine("Pizza Ücreti: " + totalpizzaPrice + " TL");
+            //Console.WriteLine("Limonata Ücreti: " + totallemonadePrice + " TL");
+
+            //Console.WriteLine();
+
+            //int totalPrice = totalhamburgerPrice + totalcokePrice + totalfriesPrice + totalwaterPrice + totalpizzaPrice + totallemonadePrice;
+
+            //Console.WriteLine("Toplam Hesap Ücreti: " + totalPrice + " TL");
+
+         
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            #endregion
+
+
+
+            Console.Read();
+        }
+    }
+}
+
+
+
